@@ -1,0 +1,8 @@
+episodes parsed: 50 (0 with zero scene markers: -)
+dialogue lines: 1487
+speaker labels: 64
+characters after resolve: 60
+leads (>=20 lines): 13 carrying 17 labels
+aliases that recur after the character was named (drift): 4
+flags for human review: 25
+model: none (rules only)

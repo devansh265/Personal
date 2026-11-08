@@ -1,0 +1,781 @@
+[
+ {
+  "id": "Juliana",
+  "canonical_label": "JULIANA",
+  "aliases": [
+   "LADY JULIANA"
+  ],
+  "episodes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   31,
+   32,
+   34,
+   37,
+   38,
+   41,
+   42,
+   45,
+   46,
+   47
+  ],
+  "lines": 462,
+  "drift_episodes": [
+   {
+    "alias": "LADY JULIANA",
+    "named_in_ep": 4,
+    "alias_recurs_in": [
+     21,
+     22,
+     23,
+     24,
+     34
+    ]
+   }
+  ]
+ },
+ {
+  "id": "Alexander",
+  "canonical_label": "ALEXANDER",
+  "aliases": [],
+  "episodes": [
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   16,
+   17,
+   18,
+   19,
+   25,
+   35,
+   36,
+   39,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47
+  ],
+  "lines": 202,
+  "drift_episodes": []
+ },
+ {
+  "id": "Catherine",
+  "canonical_label": "CATHERINE",
+  "aliases": [
+   "LADY CATHERINE"
+  ],
+  "episodes": [
+   20,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   37,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50
+  ],
+  "lines": 196,
+  "drift_episodes": [
+   {
+    "alias": "LADY CATHERINE",
+    "named_in_ep": 20,
+    "alias_recurs_in": [
+     27
+    ]
+   }
+  ]
+ },
+ {
+  "id": "Rupert",
+  "canonical_label": "RUPERT",
+  "aliases": [
+   "BLOND NOBLEMAN"
+  ],
+  "episodes": [
+   2,
+   9,
+   20,
+   27,
+   28,
+   30,
+   37,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45
+  ],
+  "lines": 75,
+  "drift_episodes": [
+   {
+    "alias": "BLOND NOBLEMAN",
+    "named_in_ep": 20,
+    "alias_recurs_in": [
+     27,
+     28,
+     37,
+     40,
+     41,
+     42,
+     43,
+     44
+    ]
+   }
+  ]
+ },
+ {
+  "id": "Alexander'S Mother",
+  "canonical_label": "ALEXANDER'S MOTHER",
+  "aliases": [],
+  "episodes": [
+   35,
+   36,
+   42
+  ],
+  "lines": 39,
+  "drift_episodes": []
+ },
+ {
+  "id": "Prudence",
+  "canonical_label": "PRUDENCE",
+  "aliases": [],
+  "episodes": [
+   21,
+   22,
+   23,
+   24,
+   34
+  ],
+  "lines": 38,
+  "drift_episodes": []
+ },
+ {
+  "id": "Lord",
+  "canonical_label": "LORD",
+  "aliases": [],
+  "episodes": [
+   33,
+   34
+  ],
+  "lines": 36,
+  "drift_episodes": []
+ },
+ {
+  "id": "Gerald",
+  "canonical_label": "GERALD",
+  "aliases": [],
+  "episodes": [
+   4,
+   5,
+   7,
+   11,
+   12,
+   13
+  ],
+  "lines": 32,
+  "drift_episodes": []
+ },
+ {
+  "id": "Clarissa",
+  "canonical_label": "CLARISSA",
+  "aliases": [
+   "LADY CLARISSA"
+  ],
+  "episodes": [
+   4,
+   5,
+   12,
+   13,
+   37
+  ],
+  "lines": 28,
+  "drift_episodes": [
+   {
+    "alias": "LADY CLARISSA",
+    "named_in_ep": 4,
+    "alias_recurs_in": [
+     37
+    ]
+   }
+  ]
+ },
+ {
+  "id": "Mysterious Bearded Man",
+  "canonical_label": "MYSTERIOUS BEARDED MAN",
+  "aliases": [],
+  "episodes": [
+   4,
+   5,
+   6
+  ],
+  "lines": 28,
+  "drift_episodes": []
+ },
+ {
+  "id": "Dowager Duchess",
+  "canonical_label": "DOWAGER DUCHESS",
+  "aliases": [],
+  "episodes": [
+   26,
+   27,
+   28,
+   43
+  ],
+  "lines": 26,
+  "drift_episodes": []
+ },
+ {
+  "id": "High Priest",
+  "canonical_label": "HIGH PRIEST",
+  "aliases": [],
+  "episodes": [
+   45,
+   46
+  ],
+  "lines": 22,
+  "drift_episodes": []
+ },
+ {
+  "id": "Maid",
+  "canonical_label": "MAID",
+  "aliases": [],
+  "episodes": [
+   33
+  ],
+  "lines": 20,
+  "drift_episodes": []
+ },
+ {
+  "id": "Elder Nobleman",
+  "canonical_label": "ELDER NOBLEMAN",
+  "aliases": [],
+  "episodes": [
+   30,
+   40
+  ],
+  "lines": 19,
+  "drift_episodes": []
+ },
+ {
+  "id": "Judge",
+  "canonical_label": "JUDGE",
+  "aliases": [],
+  "episodes": [
+   34
+  ],
+  "lines": 19,
+  "drift_episodes": []
+ },
+ {
+  "id": "Lady In Gold Gown",
+  "canonical_label": "LADY IN GOLD GOWN",
+  "aliases": [],
+  "episodes": [
+   1,
+   2,
+   3
+  ],
+  "lines": 17,
+  "drift_episodes": []
+ },
+ {
+  "id": "Father Thomas",
+  "canonical_label": "FATHER THOMAS",
+  "aliases": [],
+  "episodes": [
+   49,
+   50
+  ],
+  "lines": 17,
+  "drift_episodes": []
+ },
+ {
+  "id": "The Former Groom",
+  "canonical_label": "THE FORMER GROOM",
+  "aliases": [],
+  "episodes": [
+   1,
+   2,
+   3,
+   9
+  ],
+  "lines": 16,
+  "drift_episodes": []
+ },
+ {
+  "id": "The Bearded Stranger",
+  "canonical_label": "THE BEARDED STRANGER",
+  "aliases": [],
+  "episodes": [
+   3
+  ],
+  "lines": 15,
+  "drift_episodes": []
+ },
+ {
+  "id": "Noblewoman",
+  "canonical_label": "NOBLEWOMAN",
+  "aliases": [],
+  "episodes": [
+   24,
+   41
+  ],
+  "lines": 14,
+  "drift_episodes": []
+ },
+ {
+  "id": "Noble Matriarch",
+  "canonical_label": "NOBLE MATRIARCH",
+  "aliases": [],
+  "episodes": [
+   3
+  ],
+  "lines": 11,
+  "drift_episodes": []
+ },
+ {
+  "id": "Thug With Cap",
+  "canonical_label": "THUG WITH CAP",
+  "aliases": [],
+  "episodes": [
+   15,
+   16
+  ],
+  "lines": 10,
+  "drift_episodes": []
+ },
+ {
+  "id": "Informant",
+  "canonical_label": "INFORMANT",
+  "aliases": [],
+  "episodes": [
+   19
+  ],
+  "lines": 9,
+  "drift_episodes": []
+ },
+ {
+  "id": "Crown Official",
+  "canonical_label": "CROWN OFFICIAL",
+  "aliases": [],
+  "episodes": [
+   43
+  ],
+  "lines": 9,
+  "drift_episodes": []
+ },
+ {
+  "id": "Matriarch",
+  "canonical_label": "MATRIARCH",
+  "aliases": [],
+  "episodes": [
+   1
+  ],
+  "lines": 8,
+  "drift_episodes": []
+ },
+ {
+  "id": "Lord Ashcroft",
+  "canonical_label": "LORD ASHCROFT",
+  "aliases": [],
+  "episodes": [
+   5
+  ],
+  "lines": 8,
+  "drift_episodes": []
+ },
+ {
+  "id": "Nobleman",
+  "canonical_label": "NOBLEMAN",
+  "aliases": [],
+  "episodes": [
+   37,
+   41
+  ],
+  "lines": 8,
+  "drift_episodes": []
+ },
+ {
+  "id": "Peasant Mother",
+  "canonical_label": "PEASANT MOTHER",
+  "aliases": [],
+  "episodes": [
+   9
+  ],
+  "lines": 7,
+  "drift_episodes": []
+ },
+ {
+  "id": "Housekeeper",
+  "canonical_label": "HOUSEKEEPER",
+  "aliases": [],
+  "episodes": [
+   22
+  ],
+  "lines": 7,
+  "drift_episodes": []
+ },
+ {
+  "id": "Lady Harrington",
+  "canonical_label": "LADY HARRINGTON",
+  "aliases": [],
+  "episodes": [
+   40
+  ],
+  "lines": 7,
+  "drift_episodes": []
+ },
+ {
+  "id": "Royal Guard",
+  "canonical_label": "ROYAL GUARD",
+  "aliases": [],
+  "episodes": [
+   3,
+   40,
+   42,
+   43
+  ],
+  "lines": 6,
+  "drift_episodes": []
+ },
+ {
+  "id": "Lady Ashcroft",
+  "canonical_label": "LADY ASHCROFT",
+  "aliases": [],
+  "episodes": [
+   4,
+   5
+  ],
+  "lines": 6,
+  "drift_episodes": []
+ },
+ {
+  "id": "Elder Villager",
+  "canonical_label": "ELDER VILLAGER",
+  "aliases": [],
+  "episodes": [
+   19
+  ],
+  "lines": 6,
+  "drift_episodes": []
+ },
+ {
+  "id": "Seamus",
+  "canonical_label": "SEAMUS",
+  "aliases": [],
+  "episodes": [
+   20
+  ],
+  "lines": 6,
+  "drift_episodes": []
+ },
+ {
+  "id": "The Priest",
+  "canonical_label": "THE PRIEST",
+  "aliases": [],
+  "episodes": [
+   4
+  ],
+  "lines": 5,
+  "drift_episodes": []
+ },
+ {
+  "id": "Aristocratic Woman",
+  "canonical_label": "ARISTOCRATIC WOMAN",
+  "aliases": [],
+  "episodes": [
+   7
+  ],
+  "lines": 5,
+  "drift_episodes": []
+ },
+ {
+  "id": "Constable",
+  "canonical_label": "CONSTABLE",
+  "aliases": [],
+  "episodes": [
+   11,
+   12
+  ],
+  "lines": 5,
+  "drift_episodes": []
+ },
+ {
+  "id": "Loyalist Fighter",
+  "canonical_label": "LOYALIST FIGHTER",
+  "aliases": [],
+  "episodes": [
+   39
+  ],
+  "lines": 4,
+  "drift_episodes": []
+ },
+ {
+  "id": "Lord Harrington",
+  "canonical_label": "LORD HARRINGTON",
+  "aliases": [],
+  "episodes": [
+   40
+  ],
+  "lines": 4,
+  "drift_episodes": []
+ },
+ {
+  "id": "Bald Thug",
+  "canonical_label": "BALD THUG",
+  "aliases": [],
+  "episodes": [
+   15,
+   16
+  ],
+  "lines": 3,
+  "drift_episodes": []
+ },
+ {
+  "id": "Guard",
+  "canonical_label": "GUARD",
+  "aliases": [],
+  "episodes": [
+   29,
+   38
+  ],
+  "lines": 3,
+  "drift_episodes": []
+ },
+ {
+  "id": "Police Constable",
+  "canonical_label": "POLICE CONSTABLE",
+  "aliases": [],
+  "episodes": [
+   43,
+   44
+  ],
+  "lines": 3,
+  "drift_episodes": []
+ },
+ {
+  "id": "Agnes",
+  "canonical_label": "AGNES",
+  "aliases": [],
+  "episodes": [
+   48
+  ],
+  "lines": 3,
+  "drift_episodes": []
+ },
+ {
+  "id": "Off-Screen Voice",
+  "canonical_label": "OFF-SCREEN VOICE",
+  "aliases": [],
+  "episodes": [
+   2
+  ],
+  "lines": 2,
+  "drift_episodes": []
+ },
+ {
+  "id": "Townsman",
+  "canonical_label": "TOWNSMAN",
+  "aliases": [],
+  "episodes": [
+   34
+  ],
+  "lines": 2,
+  "drift_episodes": []
+ },
+ {
+  "id": "Loyalist Scout",
+  "canonical_label": "LOYALIST SCOUT",
+  "aliases": [],
+  "episodes": [
+   39
+  ],
+  "lines": 2,
+  "drift_episodes": []
+ },
+ {
+  "id": "Cart Driver",
+  "canonical_label": "CART DRIVER",
+  "aliases": [],
+  "episodes": [
+   39
+  ],
+  "lines": 2,
+  "drift_episodes": []
+ },
+ {
+  "id": "Loyalist",
+  "canonical_label": "LOYALIST",
+  "aliases": [],
+  "episodes": [
+   39
+  ],
+  "lines": 2,
+  "drift_episodes": []
+ },
+ {
+  "id": "Lady Ashbourne",
+  "canonical_label": "LADY ASHBOURNE",
+  "aliases": [],
+  "episodes": [
+   47
+  ],
+  "lines": 2,
+  "drift_episodes": []
+ },
+ {
+  "id": "Scarred Bearded Man",
+  "canonical_label": "SCARRED BEARDED MAN",
+  "aliases": [],
+  "episodes": [
+   7
+  ],
+  "lines": 1,
+  "drift_episodes": []
+ },
+ {
+  "id": "Tall Thug",
+  "canonical_label": "TALL THUG",
+  "aliases": [],
+  "episodes": [
+   15
+  ],
+  "lines": 1,
+  "drift_episodes": []
+ },
+ {
+  "id": "Third Thug",
+  "canonical_label": "THIRD THUG",
+  "aliases": [],
+  "episodes": [
+   16
+  ],
+  "lines": 1,
+  "drift_episodes": []
+ },
+ {
+  "id": "Old Woman",
+  "canonical_label": "OLD WOMAN",
+  "aliases": [],
+  "episodes": [
+   34
+  ],
+  "lines": 1,
+  "drift_episodes": []
+ },
+ {
+  "id": "Butler",
+  "canonical_label": "BUTLER",
+  "aliases": [],
+  "episodes": [
+   37
+  ],
+  "lines": 1,
+  "drift_episodes": []
+ },
+ {
+  "id": "Royal Sentry",
+  "canonical_label": "ROYAL SENTRY",
+  "aliases": [],
+  "episodes": [
+   39
+  ],
+  "lines": 1,
+  "drift_episodes": []
+ },
+ {
+  "id": "Footman",
+  "canonical_label": "FOOTMAN",
+  "aliases": [],
+  "episodes": [
+   40
+  ],
+  "lines": 1,
+  "drift_episodes": []
+ },
+ {
+  "id": "Priest",
+  "canonical_label": "PRIEST",
+  "aliases": [],
+  "episodes": [
+   41
+  ],
+  "lines": 1,
+  "drift_episodes": []
+ },
+ {
+  "id": "Lord Sterling",
+  "canonical_label": "LORD STERLING",
+  "aliases": [],
+  "episodes": [
+   44
+  ],
+  "lines": 1,
+  "drift_episodes": []
+ },
+ {
+  "id": "Conspirator",
+  "canonical_label": "CONSPIRATOR",
+  "aliases": [],
+  "episodes": [
+   47
+  ],
+  "lines": 1,
+  "drift_episodes": []
+ },
+ {
+  "id": "Vaughn",
+  "canonical_label": "VAUGHN",
+  "aliases": [],
+  "episodes": [
+   47
+  ],
+  "lines": 1,
+  "drift_episodes": []
+ }
+]
